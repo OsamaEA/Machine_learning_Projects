@@ -1,4 +1,4 @@
-# Machine_learning_Projects
+# Applied_Machine_learning
 University of Michigan
 
 The assignments covered different techniques of Machinle learning methods
